@@ -1,4 +1,6 @@
-# Intro-to-Data-Science-IMDb-Project
+# This Project focusing on leveraging IMDb’s datasets to find the relationship between confidence scores that come from average ratings based on the number of user votes, movie runtimes, and average ratings of movies, aiming to fill gaps in understanding influencing factors of audience perception. 
+
+# Instruction to run Project
 
 1. Download three IMDb datasets from : https://developer.imdb.com/non-commercial-datasets/
 - title.akas.tsv	
